@@ -1,6 +1,3 @@
 # hello-world
-Just another repository
 
-Sup,
-
-If humans could fly, we'd consider it exercise and never do it.
+If trees could scream, would we be so cavalier in chopping them down? Maybe. If they screamed all the time for no good reason.
